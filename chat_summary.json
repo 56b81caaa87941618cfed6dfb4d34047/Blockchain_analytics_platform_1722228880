@@ -18,5 +18,11 @@
         "content": "<button>Hello World</button>",
         "timestamp": "29072024045635",
         "message_id": "guest29072024045634"
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with navlinks home, about and contact",
+        "timestamp": "29072024045722",
+        "message_id": "guest29072024045720"
     }
 ]
