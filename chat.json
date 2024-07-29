@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button that says Submit",
+        "message_id": "guest29072024045755",
+        "timestamp": "29072024045757",
+        "component_file_name": "blank_component_1722228976",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Here is an example of a navbar with the navlinks home, about and contact:\n\n```html\n<nav>\n  <ul>\n    <li><a href=\"#\">Home</a></li>\n    <li><a href=\"#\">About</a></li>\n    <li><a href=\"#\">Contact</a></li>\n  </ul>\n</nav>\n```\n\nYou can add this code to the top of your HTML document to create a navbar. You can also style it with CSS to make it look the way you want.",
         "message_id": "guest29072024045720",
