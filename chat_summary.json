@@ -54,5 +54,11 @@
         "content": "Sure, here's some code for a basic sidebar with those links:\n\n```\n<div class=\"sidebar\">\n  <ul class=\"navlinks\">\n    <li><a href=\"#\">Home</a></li>\n    <li><a href=\"#\">About</a></li>\n    <li><a href=\"#\">Contact</a></li>\n  </ul>\n</div>\n```\n\nYou can style this with CSS to fit your website's design.",
         "timestamp": "29072024050548",
         "message_id": "guest29072024050547"
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "timestamp": "29072024050619",
+        "message_id": "guest29072024050618"
     }
 ]
