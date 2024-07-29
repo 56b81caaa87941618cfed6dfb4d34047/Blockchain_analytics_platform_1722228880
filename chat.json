@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "message_id": "guest29072024050618",
+        "timestamp": "29072024050619",
+        "component_file_name": "simple_hero_component_1722228881",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, here's some code for a basic sidebar with those links:\n\n```\n<div class=\"sidebar\">\n  <ul class=\"navlinks\">\n    <li><a href=\"#\">Home</a></li>\n    <li><a href=\"#\">About</a></li>\n    <li><a href=\"#\">Contact</a></li>\n  </ul>\n</div>\n```\n\nYou can style this with CSS to fit your website's design.",
         "message_id": "guest29072024050547",
