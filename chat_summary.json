@@ -42,5 +42,11 @@
         "content": "<button>Submit</button>",
         "timestamp": "29072024045757",
         "message_id": "guest29072024045755"
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the navlinks home, about and contact",
+        "timestamp": "29072024050548",
+        "message_id": "guest29072024050547"
     }
 ]
