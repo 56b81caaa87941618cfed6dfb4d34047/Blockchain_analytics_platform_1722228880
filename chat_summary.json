@@ -1,63 +1,97 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1722228881",
+        "role": "chat_acknowledge",
+        "content": "<button>Hello World</button>",
+        "message_id": "guest29072024050618",
+        "timestamp": "29072024050619",
         "component_file_name": "",
-        "div_id": ""
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a button that says hello world",
-        "timestamp": "29072024045635",
-        "message_id": "guest29072024045634"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "<button>Hello World</button>",
-        "timestamp": "29072024045635",
-        "message_id": "guest29072024045634"
-    },
-    {
-        "role": "user",
-        "content": "add a navbar with navlinks home, about and contact",
-        "timestamp": "29072024045722",
-        "message_id": "guest29072024045720"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Here is an example of a navbar with the navlinks home, about and contact:\n\n```html\n<nav>\n  <ul>\n    <li><a href=\"#\">Home</a></li>\n    <li><a href=\"#\">About</a></li>\n    <li><a href=\"#\">Contact</a></li>\n  </ul>\n</nav>\n```\n\nYou can add this code to the top of your HTML document to create a navbar. You can also style it with CSS to make it look the way you want.",
-        "timestamp": "29072024045722",
-        "message_id": "guest29072024045720"
-    },
-    {
-        "role": "user",
-        "content": "add a button that says Submit",
-        "timestamp": "29072024045757",
-        "message_id": "guest29072024045755"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "<button>Submit</button>",
-        "timestamp": "29072024045757",
-        "message_id": "guest29072024045755"
-    },
-    {
-        "role": "user",
-        "content": "add a sidebar with the navlinks home, about and contact",
-        "timestamp": "29072024050548",
-        "message_id": "guest29072024050547"
+        "message_id": "guest29072024050618",
+        "timestamp": "29072024050619",
+        "component_file_name": "simple_hero_component_1722228881",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_acknowledge",
         "content": "Sure, here's some code for a basic sidebar with those links:\n\n```\n<div class=\"sidebar\">\n  <ul class=\"navlinks\">\n    <li><a href=\"#\">Home</a></li>\n    <li><a href=\"#\">About</a></li>\n    <li><a href=\"#\">Contact</a></li>\n  </ul>\n</div>\n```\n\nYou can style this with CSS to fit your website's design.",
+        "message_id": "guest29072024050547",
         "timestamp": "29072024050548",
-        "message_id": "guest29072024050547"
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the navlinks home, about and contact",
+        "message_id": "guest29072024050547",
+        "timestamp": "29072024050548",
+        "component_file_name": "blank_component_1722228976",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "<button>Submit</button>",
+        "message_id": "guest29072024045755",
+        "timestamp": "29072024045757",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says Submit",
+        "message_id": "guest29072024045755",
+        "timestamp": "29072024045757",
+        "component_file_name": "blank_component_1722228976",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Here is an example of a navbar with the navlinks home, about and contact:\n\n```html\n<nav>\n  <ul>\n    <li><a href=\"#\">Home</a></li>\n    <li><a href=\"#\">About</a></li>\n    <li><a href=\"#\">Contact</a></li>\n  </ul>\n</nav>\n```\n\nYou can add this code to the top of your HTML document to create a navbar. You can also style it with CSS to make it look the way you want.",
+        "message_id": "guest29072024045720",
+        "timestamp": "29072024045722",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with navlinks home, about and contact",
+        "message_id": "guest29072024045720",
+        "timestamp": "29072024045722",
+        "component_file_name": "blank_component_1722228976",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "<button>Hello World</button>",
+        "message_id": "guest29072024045634",
+        "timestamp": "29072024045635",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a button that says hello world",
+        "message_id": "guest29072024045634",
+        "timestamp": "29072024045635",
+        "component_file_name": "blank_component_1722228976",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
         "timestamp": "29072024050619",
         "message_id": "guest29072024050618"
     }
